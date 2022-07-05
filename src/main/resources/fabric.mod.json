@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.github.sysnote8main.fabmod-dev.ExmapleMod"
     ]
   },
   "mixins": [

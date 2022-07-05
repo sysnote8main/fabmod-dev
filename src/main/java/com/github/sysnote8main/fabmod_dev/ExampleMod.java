@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package com.github.sysnote8main.fabmod_dev;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

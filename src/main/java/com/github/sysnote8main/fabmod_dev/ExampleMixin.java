@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package com.github.sysnote8main.fabmod_dev;
 
-import net.fabricmc.example.ExampleMod;
+import com.github.sysnote8main.fabmod_dev.ExampleMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
